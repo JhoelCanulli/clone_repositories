@@ -1,0 +1,10 @@
+https://github.com/JhoelCanulli/download_repositories.git
+https://github.com/JhoelCanulli/FullStack_Uni_Java.git
+https://github.com/JhoelCanulli/clps_microservice_task.git
+https://github.com/JhoelCanulli/FullStack_Academy_Tasks.git
+https://github.com/JhoelCanulli/Alberi_C.git
+https://github.com/JhoelCanulli/Liste_C.git
+https://github.com/JhoelCanulli/Stack_C.git
+https://github.com/JhoelCanulli/Ordinamento.git
+https://github.com/JhoelCanulli/esercizi_c.git
+https://github.com/JhoelCanulli/albo.git
